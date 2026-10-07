@@ -167,7 +167,7 @@ Potential areas for expansion:
 - Improving model accuracy with more sophisticated architectures
 - Incorporating different types of cardiac abnormalities
 - Adding real-time ECG analysis capability
-- Developing a mobile application for ECG monitoring
+- Developing a mobile app for ECG monitoring
 
 ## License
 
